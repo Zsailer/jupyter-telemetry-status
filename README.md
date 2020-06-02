@@ -40,7 +40,9 @@ What's after that (December 2020)?
 
 JupyterHub and (in August 2020) JupyterLab's Server come with Jupyter Telemetry built-in.
 
-...
+This means, operators can "turn-on" Jupyter Telemetry using JupyterHub's configuration system, e.g. adding a few lines of config to `jupyterhub_config.py`.
+
+See an example [here](https://github.com/Zsailer/rich-context-from-jupyter-telemetry).
 
 
 ## Event Schema Example
