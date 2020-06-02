@@ -64,7 +64,7 @@ properties:
   username:
     title: User Name
     description: Identifies the user
-    category:
+    categories:
       - personal-identifier
      type: string
 required:
